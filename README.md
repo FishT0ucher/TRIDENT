@@ -18,7 +18,7 @@ Illustration of our **data generation pipeline** for building **TRIDENT**
 
 ## 📝 Citation
 
-If you find this code or dataset useful, please cite our **ACL 2025** paper:
+If you find this dataset useful, please cite our **ACL 2025** paper:
 
 ```bibtex
 @inproceedings{wu-etal-2025-trident,
