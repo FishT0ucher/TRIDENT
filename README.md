@@ -14,3 +14,34 @@ Instruction classification in six **baseline** red-teaming datasets and **TRIDEN
 
 ![image](https://github.com/FishT0ucher/TRIDENT/blob/master/Pipeline%20.png)
 Illustration of our **data generation pipeline** for building **TRIDENT**
+
+
+## 📝 Citation
+
+If you find this code or dataset useful, please cite our **ACL 2025** paper:
+
+```bibtex
+@inproceedings{wu-etal-2025-trident,
+    title = "{TRIDENT}: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis",
+    author = "Wu, Xiaorui  and
+      Mao, Xiaofeng  and
+      Li, Fei  and
+      Zhang, Xin  and
+      Li, Xuanhong  and
+      Teng, Chong  and
+      Ji, Donghong  and
+      Li, Zhuang",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.733/",
+    doi = "10.18653/v1/2025.acl-long.733",
+    pages = "15077--15099",
+    ISBN = "979-8-89176-251-0",
+```
